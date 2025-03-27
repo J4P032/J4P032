@@ -1,8 +1,10 @@
 <p align="center" width="300">
   <h3 align="center">Hello there! Here Javier Rollón</h3> 
 </p>
-[![Background](https://img.youtube.com/vi/RDZIQf7hkxo/0.jpg)](https://www.youtube.com/watch?v=RDZIQf7hkxo)
 
+<p align="center"> 
+   <a href="https://www.youtube.com/watch?v=RDZIQf7hkxo" target="_blank" rel="noreferrer"> <img src="https://img.youtube.com/vi/RDZIQf7hkxo/0.jpg" alt="cplusplus" width="560" height="400"/></a> 
+</p>
 ## Knowledge
 <p> 
   <a href="https://www.autodesk.com/products/3ds-max/free-trial" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gZFcwd6TOaFzv6Mdgnhvzigf-GLzGAbKug&s" alt="linux" width="40" height="40"/></a>

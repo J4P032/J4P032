@@ -13,6 +13,7 @@
   <a href="https://www.adobe.com/products/substance3d/apps/painter.html" rel="noreferrer"> <img src="https://i0.wp.com/cdn.iconscout.com/icon/free/png-256/adobe-substance-2521753-2132645.png" alt="spainter" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/615px-Photoshop_CC_icon.png" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.blackmagicdesign.com/es/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="40" height="40"/></a>
+  <a href="https://obsproject.com/es/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/120px-OBS_Studio_Logo.svg.png" alt="obs" width="40" height="40"/></a>
  
   <a href="https://code.visualstudio.com/"> <img src="https://w7.pngwing.com/pngs/905/947/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" alt="vsc" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>

@@ -1,6 +1,7 @@
 ## Konnichiwa 👋
 <p align="center" width="300">
-  <h3 align="center">Aquí Javier Rollon </h3>  
+  <h3 align="center"Hello there!</h3> 
+  <h3 align="center"Here Javier Rollon!</h3>
 </p>
 
 ## CONOCIMIENTO

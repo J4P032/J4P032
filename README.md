@@ -1,6 +1,7 @@
 # Javier Rollón
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/J4P032)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javierrollon/?locale=en_US)
+[![youtube](https://img.shields.io/badge/-Youtube-black?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@J4p032)
 
 3DArtist, 3D character Animator, Video producer, Youtube/Twitch Content creator, Flight Simulator professional, Gamer
 

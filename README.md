@@ -30,7 +30,7 @@
 </p>
 
 ### WIP
-<p align="center"> 
+<p> 
   <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minitalke.png?raw=true" /></a>
 </p>
 

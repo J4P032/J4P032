@@ -1,17 +1,18 @@
-## Konnichiwa 👋
 <p align="center" width="300">
-  <h3 align="center"Hello there!</h3> 
+  <h3 align="center">Hello there! Here Javier Rollón</h3> 
 </p>
 
-## CONOCIMIENTO
+## Knowledge
 <p> 
+  
+  <a href="https://www.autodesk.com/products/3ds-max/free-trial" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gZFcwd6TOaFzv6Mdgnhvzigf-GLzGAbKug&s" alt="linux" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
 </p>
 
-## Student in 42 Madrid
+## Student in 42 Madrid (C/C++ programming)
 [![jrollon-'s 42 stats](https://badge.mediaplus.ma/kettlebells/jrollon-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### 42CURSUS proyects done.

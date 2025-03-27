@@ -34,8 +34,11 @@ Currently learning C/C++ at 42 university as student
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vim.org/images/vimlogo.svg" alt="vim" width="40" height="40"/></a>
 </p>
+<p align="center">
+______________________________________________
+</p>
 
-### 42 CURSUS
+# 42 CURSUS
 [![jrollon-'s 42 stats](https://badge.mediaplus.ma/kettlebells/jrollon-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### proyects done.

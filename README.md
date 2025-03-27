@@ -1,5 +1,13 @@
+# Javier Rollón
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/J4P032)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javierrollon/?locale=en_US)
+
+3DArtist, 3D character Animator, Video producer, Youtube/Twitch Content creator, Flight Simulator professional, Gamer
+
+Currently learning C/C++ at 42 university as student
+
 <p align="center" width="300">
-  <h3 align="center">Hello there! Here Javier Rollón</h3> 
+  <h3 align="center">3DArtist & Animator 1997-2024 (youtube)</h3> 
 </p>
 
 <p align="center"> 

@@ -17,9 +17,7 @@
 </p>
 
 ## Student in 42 Madrid (C/C++ programming)
-<p align="center"> 
 [![jrollon-'s 42 stats](https://badge.mediaplus.ma/kettlebells/jrollon-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</p>
 
 ### 42CURSUS proyects done.
 <p> 

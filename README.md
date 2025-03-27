@@ -35,9 +35,10 @@ Currently learning C/C++ at 42 university as student
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vim.org/images/vimlogo.svg" alt="vim" width="40" height="40"/></a>
 </p>
 
+### 42 CURSUS
 [![jrollon-'s 42 stats](https://badge.mediaplus.ma/kettlebells/jrollon-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-### 42CURSUS proyects done.
+### proyects done.
 <p> 
   <a href="https://github.com/J4P032/42CURSUS/tree/main/01_libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/02_GetNextLine"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/get_next_linee.png?raw=true" /></a>

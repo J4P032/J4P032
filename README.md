@@ -1,12 +1,10 @@
 <p align="center" width="300">
   <h3 align="center">Hello there! Here Javier Rollón</h3> 
 </p>
+[![Background](https://img.youtube.com/vi/RDZIQf7hkxo/0.jpg)](https://www.youtube.com/watch?v=RDZIQf7hkxo)
 
 ## Knowledge
 <p> 
-
-
-  
   <a href="https://www.autodesk.com/products/3ds-max/free-trial" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gZFcwd6TOaFzv6Mdgnhvzigf-GLzGAbKug&s" alt="linux" width="40" height="40"/></a>
    <a href="https://www.blender.org/download/" target="_blank" rel="noreferrer"> <img src="https://www.icons101.com/icons/1/iOS_style_Blender_icons_by_ChilliTrav/128/blender%20icon%20(white).png" alt="linux" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/615px-Photoshop_CC_icon.png" alt="linux" width="40" height="40"/></a>

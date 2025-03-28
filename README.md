@@ -3,7 +3,7 @@
 [![youtube](https://img.shields.io/badge/-Youtube-black?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@J4p032)
 [![twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/japo32)
 [![discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/ykTeJGQ54Z)
-[![homepage](https://img.shields.io/badge/-Personal_Page-F38020?style=flat&logo=homepage&logoColor=white)](https://jrollon.com/index.html)
+[![homepage](https://img.shields.io/badge/-Homepage-F38020?style=flat&logo=homepage&logoColor=white)](https://jrollon.com/index.html)
 [![spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6EZUBBWHa0oGK8B7OokXmx)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/J4P032)
 

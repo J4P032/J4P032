@@ -55,8 +55,8 @@ ______________________________________________
 
 ### WIP
 <p> 
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minishelle.png?raw=true" /></a>
- <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minishelle.png?raw=true" /></a>
+ <a href="https://github.com/J4P032/42CURSUS"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
 </p>
 
 <!--

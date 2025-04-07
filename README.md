@@ -44,17 +44,19 @@ ______________________________________________
 
 ### proyects done.
 <p> 
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/01_libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/01_libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libftm.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/02_GetNextLine"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/get_next_linee.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/02_Printf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/ft_printfe.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/02_BornToBeRoot"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/born2beroote.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/03_PushSwap"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/push_swape.png?raw=true" /></a>
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_SoLong"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/so_longe.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_SoLong"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/so_longm.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minitalkm.png?raw=true" /></a>
 </p>
 
 ### WIP
 <p> 
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minitalke.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minishelle.png?raw=true" /></a>
+ <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
 </p>
 
 <!--

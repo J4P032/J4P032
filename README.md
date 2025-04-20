@@ -4,7 +4,7 @@
 [![twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/japo32)
 [![discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/ykTeJGQ54Z)
 [![homepage](https://img.shields.io/badge/-Webpage-F38020?style=flat&logo=homepage&logoColor=white)](https://jrollon.com/index.html)
-[![spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6EZUBBWHa0oGK8B7OokXmx)
+[![spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/japo32)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/J4P032)
 
 3DArtist, 3D character Animator, Video producer, Youtube/Twitch Content creator, Flight Simulator professional, Gamer

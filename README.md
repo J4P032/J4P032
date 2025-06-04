@@ -52,11 +52,12 @@ ______________________________________________
   <a href="https://github.com/J4P032/42CURSUS/tree/main/03_SoLong"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/so_longm.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minitalk"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minitalkm.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Philosophers"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minishell"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minishelle.png?raw=true" /></a>
 </p>
 
 ### WIP
 <p> 
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minishell"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minishelle.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/cub3de.png?raw=true" /></a>
 </p>
 
 <!--

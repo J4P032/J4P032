@@ -59,7 +59,7 @@ ______________________________________________
 
 ### WIP
 <p> 
-  <a href="https://github.com/J4P032"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/cub3de.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/04_Cub3D"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/cub3de.png?raw=true" /></a>
 </p>
 
 <!--

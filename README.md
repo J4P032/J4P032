@@ -54,7 +54,7 @@ ______________________________________________
   <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Philosophers"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/03_Minishell"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minishelle.png?raw=true" /></a>
  <a href="https://github.com/J4P032/42CURSUS/tree/main/04_CPP"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/cppm.png?raw=true" /></a>
- <a href="https://github.com/J4P032/42CURSUS/tree/main/04_Cub3D"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/cub3de.png?raw=true" /></a>
+ <a href="https://github.com/J4P032/42CURSUS/tree/main/04_Cub3D"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/cub3dm.png?raw=true" /></a>
 </p>
 
 

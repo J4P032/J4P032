@@ -22,9 +22,9 @@ Currently learning C/C++ at 42 university as student
 ## Knowledge
 <p> 
   <a href="https://www.autodesk.com/products/3ds-max/free-trial" target="_blank" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/3DStudio.jpg" alt="3dstudio" width="40" height="40"/></a>
-  <a href="https://www.blender.org/download/" target="_blank" rel="noreferrer"> <img src="https://www.icons101.com/icons/1/iOS_style_Blender_icons_by_ChilliTrav/128/blender%20icon%20(white).png" alt="blender" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/substance3d/apps/painter.html" rel="noreferrer"> <img src="https://i0.wp.com/cdn.iconscout.com/icon/free/png-256/adobe-substance-2521753-2132645.png" alt="spainter" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/615px-Photoshop_CC_icon.png" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.blender.org/download/" target="_blank" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/Blender.png" alt="blender" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/substance3d/apps/painter.html" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/SubstancePainter.png" alt="spainter" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/Photoshop.png" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.blackmagicdesign.com/es/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="40" height="40"/></a>
   <a href="https://obsproject.com/es/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/120px-OBS_Studio_Logo.svg.png" alt="obs" width="40" height="40"/></a>
  

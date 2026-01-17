@@ -25,10 +25,10 @@ Currently learning C/C++ at 42 university as student
   <a href="https://www.blender.org/download/" target="_blank" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/Blender.png" alt="blender" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/substance3d/apps/painter.html" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/SubstancePainter.png" alt="spainter" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/Photoshop.png" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.blackmagicdesign.com/es/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="40" height="40"/></a>
-  <a href="https://obsproject.com/es/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/120px-OBS_Studio_Logo.svg.png" alt="obs" width="40" height="40"/></a>
+  <a href="https://www.blackmagicdesign.com/es/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/Davinci.png" alt="davinci" width="40" height="40"/></a>
+  <a href="https://obsproject.com/es/download" target="_blank" rel="noreferrer"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/OBS.png" alt="obs" width="40" height="40"/></a>
  
-  <a href="https://code.visualstudio.com/"> <img src="https://w7.pngwing.com/pngs/905/947/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" alt="vsc" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/VisualCode.png" alt="vsc" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>

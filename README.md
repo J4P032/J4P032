@@ -1,5 +1,6 @@
 # Javier Rollón
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javierrollon/?locale=en_US)
+
 [![youtube](https://img.shields.io/badge/-Youtube-black?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@J4p032)
 [![twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/japo32)
 [![discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/ykTeJGQ54Z)
@@ -12,7 +13,8 @@
 Currently learning C/C++ at 42 university as student
 
 <p align="center" width="300">
-  <h3 align="center">3DArtist & Animator 1997-2024 (youtube)</h3> 
+  <h3 align="center"><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf"</a>3DArtist & Animator 1997-2024 (youtube)</h3>
+ ## <h3 align="center">3DArtist & Animator 1997-2024 (youtube)</h3> 
 </p>
 
 <p align="center"> 

@@ -60,7 +60,7 @@ ______________________________________________
 
 ### WIP
 <p> 
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/05_CPP"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/cppn.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/05_CPP"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/cppn2.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/05_FT_IRC"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/ft_ircn.png?raw=true" /></a>
 </p>
 

@@ -61,6 +61,7 @@ ______________________________________________
 ### WIP
 <p> 
   <a href="https://github.com/J4P032/42CURSUS/tree/main/05_CPP"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/cppe.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/05_FT_IRC"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/ft_irce.png?raw=true" /></a>
 </p>
 
 <!--

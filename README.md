@@ -57,12 +57,13 @@ ______________________________________________
  <a href="https://github.com/J4P032/42CURSUS/tree/main/04_CPP"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/cppm.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/04_Cub3D"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/cub3dm.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/05_FT_IRC"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/ft_ircm.png?raw=true" /></a>
+   <a href="https://github.com/J4P032/42CURSUS/tree/main/05_CPP"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/cppm2.png?raw=true" /></a>
 </p>
 
 
 ### WIP
 <p> 
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/05_CPP"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/cppn2.png?raw=true" /></a>
+ 
 </p>
 <p align="center">
 <img width="515" height="530" alt="e370ce449f03eecf8abf2fd1f137740c" src="https://github.com/user-attachments/assets/3e38e936-60be-4a99-85cc-1f5254d8ad29" />

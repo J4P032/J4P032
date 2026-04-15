@@ -20,7 +20,7 @@ Currently learning C/C++ at 42 university as student
    <a href="https://www.youtube.com/watch?v=RDZIQf7hkxo" target="_blank" rel="noreferrer"> <img src="https://img.youtube.com/vi/RDZIQf7hkxo/0.jpg" alt="cplusplus" width="560" height="400"/></a> 
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td><a href="https://www.autodesk.com/products/3ds-max/free-trial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/J4P032/J4P032/main/iconos/3DStudio.jpg" alt="3dstudio" width="40" height="40"/></a></td>
     <td><a href="https://www.blender.org/download/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/J4P032/J4P032/main/iconos/Blender.png" alt="blender" width="40" height="40"/></a></td>

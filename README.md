@@ -38,6 +38,7 @@ Currently learning C/C++ at 42 university as student
     <td><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://www.vim.org/images/vimlogo.svg" alt="vim" width="40" height="40"/></a></td>
   </tr>
 </table>
+<p align="center"> 
 ______________________________________________
 </p>
 

@@ -35,7 +35,7 @@ Currently learning C/C++ at 42 university as student
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
     <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://www.stackhero.io/images/servicesLogos/openGraphVersions/docker.png" alt="vim" width="40" height="40"/></a></td>
+    <td><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt="vim" width="40" height="40"/></a></td>
   </tr>
 </table>
 <p align="center"> 

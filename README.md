@@ -61,6 +61,7 @@ ______________________________________________
   <a href="https://github.com/J4P032/42CURSUS/tree/main/05_FT_IRC"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/ft_ircm.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/05_CPP"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/cppm2.png?raw=true" /></a>
   <a href="https://github.com/J4P032/42CURSUS/tree/main/05_Inception"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/inceptione.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/06_Transcendence"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/ft_transcendencem.png?raw=true" /></a>
 </p>
 
 

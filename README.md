@@ -68,10 +68,7 @@ ______________________________________________
 ### WIP
 <p> 
  
-</p>
-<p align="center">
-<img width="515" height="530" alt="e370ce449f03eecf8abf2fd1f137740c" src="https://github.com/user-attachments/assets/3e38e936-60be-4a99-85cc-1f5254d8ad29" />
-</p>
+
 <!--
 **J4P032/J4P032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

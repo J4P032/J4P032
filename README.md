@@ -66,7 +66,7 @@ ______________________________________________
 
 
 ### WIP
-  <a href="https://github.com/J4P032/42CURSUS/tree/main/06_Transcendence"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/SPOT.png?raw=true" /></a>
+  <a href="https://github.com/J4P032/42OUTER/tree/main/SPOT"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/SPOT.png?raw=true" /></a>
 <p> 
  
 

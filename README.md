@@ -42,7 +42,7 @@ Currently learning C/C++ at 42 university as student
 ______________________________________________
 </p>
 
-# 42 CURSUS
+# 42 CURSUS & OUTER CORE
 [![jrollon-'s 42 stats](https://badge.mediaplus.ma/kettlebells/jrollon-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### proyects done.
@@ -66,6 +66,7 @@ ______________________________________________
 
 
 ### WIP
+  <a href="https://github.com/J4P032/42CURSUS/tree/main/06_Transcendence"> <img src="https://github.com/J4P032/J4P032/blob/main/iconos/SPOT.png?raw=true" /></a>
 <p> 
  
 

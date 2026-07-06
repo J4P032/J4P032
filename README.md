@@ -36,8 +36,8 @@ Currently learning C/C++ at 42 university as student
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
     <td><a href="https://cppreference.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
      <td><a href="https://rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRQL5YacU7R9E_leUdo24jkhlK3TcdmGC58bkFQT4cJ8314j_TA_N8tx9&s=10" alt="vim" width="40" height="40"/></a></td>
-  </tr>
     <td><a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt="vim" width="40" height="40"/></a></td>
+  </tr>
   </tr>
 </table>
 <p align="center"> 

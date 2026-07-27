@@ -10,7 +10,7 @@
 
 3DArtist, 3D character Animator, Video producer, Youtube/Twitch Content creator, Flight Simulator professional, Gamer
 
-Currently learning C/C++ at 42 university as Outer Core (main Comon Core completed after one year and a half)
+C, C++ and Rust Programmer (42 common Core completed)
 
 <p align="center" width="300">
  <h3 align="center" style="color: #0366d6;">

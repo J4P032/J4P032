@@ -13,10 +13,14 @@
 Currently learning C/C++ at 42 university as student
 
 <p align="center" width="300">
-  <span style="color: #0000ee;">3DArtist & Animator 1997-2024. Click over </span><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf" style="color: #0000ee; text-decoration: underline;">Resume</a><span style="color: #0000ee;"> or </span><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf" style="color: #0000ee; text-decoration: underline;">Curriculum</a><span style="color: #0000ee;"> for PDF format.</span>
- # <h3 align="center"><a href=self</a>3DArtist & Animator 1997-2024 (click over or "Curriculum" for PDF format)</h3>
- # <h3 align="center"><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf"</a>Resume</h3>
- # <h3 align="center"><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf"</a>Curriculum</h3>
+ <h3 align="center" style="color: #0366d6;">
+  3DArtist & Animator 1997-2024. Click over 
+  <a href="https://github.com" style="color: #0366d6; text-decoration: underline;">Resume</a> 
+  or 
+  <a href="https://github.com" style="color: #0366d6; text-decoration: underline;">Curriculum</a> 
+  for PDF format.
+</h3>
+
 </p>
 
 <p align="center"> 

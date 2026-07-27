@@ -14,11 +14,10 @@ Currently learning C/C++ at 42 university as student
 
 <p align="center" width="300">
  <h3 align="center" style="color: #0366d6;">
-  3DArtist & Animator 1997-2024. Click over 
+  3DArtist & Animator 1997-2024.  
   <a href="https://github.com" style="color: #0366d6; text-decoration: underline;">Resume</a> 
   or 
   <a href="https://github.com" style="color: #0366d6; text-decoration: underline;">Curriculum</a> 
-  for PDF format.
 </h3>
 
 </p>

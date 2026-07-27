@@ -13,7 +13,9 @@
 Currently learning C/C++ at 42 university as student
 
 <p align="center" width="300">
-  <h3 align="center"><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf"</a>3DArtist & Animator 1997-2024 (resume)</h3>
+  3DArtist & Animator 1997-2024 (click over "Resume" or "Curriculum" for PDF format)
+  <h3 align="center"><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf"</a>Resume</h3>
+  <h3 align="center"><a href="https://github.com/J4P032/J4P032/blob/main/Resume_Javier_Rollon.pdf"</a>Curriculum</h3>
 </p>
 
 <p align="center"> 
